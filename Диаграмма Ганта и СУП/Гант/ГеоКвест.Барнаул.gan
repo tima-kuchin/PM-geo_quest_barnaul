@@ -12,8 +12,8 @@
         <option id="color.recent"><![CDATA[#99ff66 #000000 #999900 #009999 #ffcccc #cccccc #9933ff #00cccc #ccff00 #990066]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Имя" width="226" order="0"/>
-        <field id="1" name="Стандартная роль" width="200" order="1"/>
+        <field id="0" name="Имя" width="219" order="0"/>
+        <field id="1" name="Стандартная роль" width="192" order="1"/>
     </view>
     <!-- -->
     <calendars>
